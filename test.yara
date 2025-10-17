@@ -1,4 +1,4 @@
-Rule Test {
+rule Test {
   condition: 
     False
 }
