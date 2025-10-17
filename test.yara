@@ -1,0 +1,4 @@
+Rule Test {
+  condition: 
+    False
+}
